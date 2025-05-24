@@ -1,0 +1,42 @@
+{
+  "name": "azure-devops-mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for Azure DevOps integration with wikis, test plans, and work items",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "azure-devops-mcp-server": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mcp-server",
+    "azure-devops",
+    "claude-desktop",
+    "ai-tools",
+    "wiki",
+    "test-plans",
+    "work-items"
+  ],
+  "author": "Rahul Srivastava",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.4.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/azure-devops-mcp-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/azure-devops-mcp-server/issues"
+  },
+  "homepage": "https://github.com/yourusername/azure-devops-mcp-server#readme"
+}
