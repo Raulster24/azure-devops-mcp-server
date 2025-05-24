@@ -1,3 +1,3 @@
 # azure-devops-mcp-server
 
-## mcp
+## mcp server for azure devops integration
