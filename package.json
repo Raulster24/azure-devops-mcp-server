@@ -1,6 +1,6 @@
 {
   "name": "azure-devops-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Azure DevOps integration with wikis, test plans, and work items",
   "main": "index.js",
   "type": "module",
@@ -33,10 +33,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/azure-devops-mcp-server.git"
+    "url": "git+https://github.com/raulster24/azure-devops-mcp-server.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/azure-devops-mcp-server/issues"
+    "url": "https://github.com/raulster24/azure-devops-mcp-server/issues"
   },
-  "homepage": "https://github.com/yourusername/azure-devops-mcp-server#readme"
+  "homepage": "https://github.com/raulster24/azure-devops-mcp-server#readme"
 }
